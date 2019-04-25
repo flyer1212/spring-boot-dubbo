@@ -1,0 +1,15 @@
+
+spring:
+  application:
+    name: provider
+dubbo:
+  scan:
+    base-packages: provider
+  protocol:
+    name: dubbo
+    port: 8087
+  registry:
+    address: N/A
+server:
+  port: 8090
+
