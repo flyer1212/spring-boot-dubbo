@@ -8,7 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="dubbo-demo-consumer" />
         <module name="dubbo-demo-provider" />
+<<<<<<< HEAD
         <module name="rpc-study" />
+=======
+>>>>>>> e203f968695a0f70236aad71a18f0d49bd44c6b6
         <module name="dubbo-demo-api" />
       </profile>
     </annotationProcessing>
@@ -18,7 +21,10 @@
       <module name="dubbo-demo-api" options="-parameters" />
       <module name="dubbo-demo-consumer" options="-parameters" />
       <module name="dubbo-demo-provider" options="-parameters" />
+<<<<<<< HEAD
       <module name="rpc-study" options="-parameters" />
+=======
+>>>>>>> e203f968695a0f70236aad71a18f0d49bd44c6b6
     </option>
   </component>
 </project>
